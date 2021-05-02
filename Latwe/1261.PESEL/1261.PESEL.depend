@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615221800 source:e:\elessar\pulpit\++programowanie++\zadania pl.spoj\latwe\1261.pesel\main.cpp
+	<iostream>
+	<windows.h>
+
+1615218768 source:e:\elessar\pulpit\++programowanie++\zadania pl.spoj\latwe\1261.pesel\modulo.cpp
+	<iostream>
+	<windows.h>
+

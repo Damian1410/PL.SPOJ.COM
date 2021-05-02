@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602579401 source:e:\elessar\pulpit\code bloks\zadania pl.spoj\latwe\609.pole_pewnego_kola\609.pole_pewnego_kola.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617406802 source:e:\elessar\pulpit\++programowanie++\zadania pl.spoj\latwe\1228.równanie liniowe\1228.równanie liniowe.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

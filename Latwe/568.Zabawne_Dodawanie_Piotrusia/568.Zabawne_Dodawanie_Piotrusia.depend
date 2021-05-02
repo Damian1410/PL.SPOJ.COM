@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603048874 source:e:\elessar\pulpit\code bloks\zadania pl.spoj\latwe\568.zabawne_dodawanie_piotrusia\568.zabawne_dodawanie_piotrusia.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

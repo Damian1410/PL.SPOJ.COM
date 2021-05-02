@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602145055 source:e:\elessar\pulpit\code bloks\zadania pl.spoj\latwe\438.prime_t_liczby_pierwsze\438.prime_t_liczby_pierwsze.cpp
+	<iostream>
+	<math.h>
+

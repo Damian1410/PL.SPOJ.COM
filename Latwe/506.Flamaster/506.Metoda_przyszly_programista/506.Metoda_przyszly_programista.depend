@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616014694 source:e:\elessar\pulpit\++programowanie++\zadania pl.spoj\latwe\506.flamaster\506.metoda_przyszly_programista\506.metoda_przyszly_programista.cpp
+	<iostream>
+	<windows.h>
+	<sstream>
+
